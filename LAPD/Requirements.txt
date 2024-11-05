@@ -1,0 +1,36 @@
+Original Data Info:
+https://data.lacity.org/Public-Safety/Arrest-Data-from-2020-to-Present/amvf-fr72/about_data
+
+-Last Updated
+October 29, 2024
+-Data Provided By
+LAPD
+-Each row represents an arrest
+
+Column Name - Description
+
+Report ID - ID for the arrest.
+Descent Code - Descent Code: A - Other Asian B - Black C - Chinese D - Cambodian F - Filipino G - Guamanian H - Hispanic/Latin/Mexican I - American Indian/Alaskan Native J - Japanese K - Korean L - Laotian O - Other P - Pacific Islander S - Samoan U - Hawaiian V - Vietnamese W - White X - Unknown Z - Asian Indian
+Charge Group Code - Category of arrest charge.
+Charge Group Description - Defines the Charge Group Code provided.
+Arrest Type Code - A code to indicate the type of charge the individual was arrested for. D - Dependent F - Felony I - Infraction M - Misdemeanor O - Other
+Charge - The charge the individual was arrested for.
+Charge Description - Defines the Charge provided.
+Disposition Description - Disposition of Arrest.
+Address - The street address of the crime incident is rounded to the nearest hundred blocks to maintain anonymity.
+Cross Street - Cross Street of rounded Address.
+LAT — (Latitude) The location where the crime occurred. The actual address is omitted for confidentiality. XY coordinates reflect the nearest 100 blocks.
+Report Type - BOOKING = Person is booked at a detention facility RFC = Person is cited and Released From Custody (RFC)
+LON - (Longitude) The location where the crime incident occurred. The actual address is omitted for confidentiality. XY coordinates reflect the nearest 100 block.
+Location — The location where the crime occurred. The actual address is omitted for confidentiality. The XY coordinates reflect the nearest 100 blocks.
+Booking Date - (MM/DD/YYYY) The date the person was booked at a detention facility.
+Booking Time - In 24-hour military time - The time the person was booked at a detention facility.
+Booking Location - Location person was booked.
+Booking Location Code - Code of location where the person was booked.
+Arrest Date - MM/DD/YYYY
+Time - In 24-hour military time.
+Area ID - The LAPD has 21 Community Police Stations referred to as Geographic Areas within the department. These Geographic Areas are sequentially numbered from 1-21.
+Area Name - The 21 Geographic Areas or Patrol Divisions are also given a name designation that references a landmark or the surrounding community that it is responsible for. For example, 77th Street Division is located at the intersection of South Broadway and 77th Street, serving neighborhoods in South Los Angeles.
+Reporting District - A four-digit code that represents a sub-area within a Geographic Area. All arrest records reference the "RD" that it occurred in for statistical comparisons. Find LAPD Reporting Districts on the LA City GeoHub at http://geohub.lacity.org/datasets/lapd-reporting-districts?geometry=-121.023%2C33.621%2C-115.797%2C34.418
+Age - Two character numeric.
+Sex Code - F - Female M - Male
