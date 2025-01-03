@@ -1,0 +1,14 @@
+#Goal: 
+Analyze the historical trend of US public and intragovernmental debt to understand its growth patterns, identify peak and trough periods, and forecast future debt levels.
+#Data: 
+Utilize provided historical debt data for the US.
+#Analysis:
+- Calculate year-over-year debt percentage increases.
+- Analyze monthly debt fluctuations to identify seasonal trends.
+- Forecast future debt growth based on historical trends.
+- Identify potential factors contributing to debt increases (e.g., economic recessions, government spending).
+#Deliverables:
+- Data cleaning and transformation.
+- Creation of pivot tables and charts to visualize data trends.
+- Executive summary presenting key findings and insights.
+- Potential recommendations for debt management or policy considerations.
