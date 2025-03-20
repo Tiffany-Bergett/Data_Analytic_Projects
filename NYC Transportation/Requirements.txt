@@ -1,0 +1,18 @@
+#Goal:
+Analyze NYC transportation data to identify common reasons for delays and breakdowns, understand how delay times vary by bus company and borough, and determine if there's a correlation between specific days of the week and the frequency of breakdowns or delays.    
+
+#Data:
+Utilize provided NYC transportation data, including information on delays, breakdowns, bus companies, and boroughs.    
+
+#Analysis:
+-Determine the most common reasons for delays and breakdowns.    
+-Analyze delay times by bus company and borough.    
+-Identify top 10 companies with highest delay times.    
+-Analyze trends in delays and breakdowns throughout the week.    
+
+#Deliverables:
+-Data cleaning and transformation.    
+-Creation of pivot tables and charts to visualize data trends.    
+-Executive summary presenting key findings and insights.    
+-Potential recommendations for improving efficiency and reducing delays.    
+-Sources and related content
