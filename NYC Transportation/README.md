@@ -4,9 +4,10 @@
 ### Description of Project Scope, Roles, & Responsibilities
 This project analyzes NYC transportation data to provide insights into delays and breakdowns within the bus system. The analysis identifies common reasons for these issues, variations in delay times across bus companies and boroughs, and weekly trends. The goal is to provide actionable recommendations for improving efficiency and reducing disruptions.
 
+[<img src="https://github.com/Tiffany-Bergett/Data_Projects_Personal_Projects/blob/main/Images/NYCTransCP.png" alt="First Analytical Sheet of Project**">](https://docs.google.com/spreadsheets/d/11g0H_hpKuW9gY2ppFh8apFvPY88fVrzq/edit?usp=sharing&ouid=101031187502320177888&rtpof=true&sd=true)
+
 Video Overview can be found [HERE]()
-Project can be found [HERE]()
-Raw Data can be found [HERE]()
+Project can be found [HERE](https://docs.google.com/spreadsheets/d/11g0H_hpKuW9gY2ppFh8apFvPY88fVrzq/edit?usp=sharing&ouid=101031187502320177888&rtpof=true&sd=true)
 
 ### Table of Contents for Repository Artifacts
 | File Number | Title | Description |
