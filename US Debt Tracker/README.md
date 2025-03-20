@@ -6,7 +6,7 @@
 This project focuses on analyzing historical trends in US public and intragovernmental debt.
 Including data cleaning, analysis, visualization, and report generation.
 
-[<img src="https://github.com/Tiffany-Bergett/Data_Projects_Personal_Projects/blob/main/Images/USDT.1.ES.png" alt="First Sheet of Project**">](URL OF DESTINATION)
+[<img src="https://github.com/Tiffany-Bergett/Data_Projects_Personal_Projects/blob/main/Images/USDT.1.ES.png" alt="First Sheet of Project**">](https://docs.google.com/spreadsheets/d/1yNPvGrRCbVvvNpbUQfxIgKabiCKEqp7P/edit?usp=sharing&ouid=101031187502320177888&rtpof=true&sd=true)
 
 Video Overview can be found <a href='URL HERE’><u>here</u>.</a>
 
