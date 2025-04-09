@@ -4,38 +4,37 @@
 ### Description of Project Scope, Roles, & Responsibilities
 This project analyzes NYC transportation data to provide insights into delays and breakdowns within the bus system. The analysis identifies common reasons for these issues, variations in delay times across bus companies and boroughs, and weekly trends. The goal is to provide actionable recommendations for improving efficiency and reducing disruptions.
 
-[<img src="https://github.com/Tiffany-Bergett/Data_Projects_Personal_Projects/blob/main/Images/NYCTransCP.png" alt="First Analytical Sheet of Project**">](https://docs.google.com/spreadsheets/d/11g0H_hpKuW9gY2ppFh8apFvPY88fVrzq/edit?usp=sharing&ouid=101031187502320177888&rtpof=true&sd=true)
+[<img src="https://github.com/Tiffany-Bergett/tiffany-bergett/blob/main/Images/NYCTransCP.png" alt="First Analytical Sheet of Project**">](https://docs.google.com/spreadsheets/d/11g0H_hpKuW9gY2ppFh8apFvPY88fVrzq/edit?usp=sharing&ouid=101031187502320177888&rtpof=true&sd=true)
 
 Video Overview can be found [HERE]()
-Project can be found [HERE](https://docs.google.com/spreadsheets/d/11g0H_hpKuW9gY2ppFh8apFvPY88fVrzq/edit?usp=sharing&ouid=101031187502320177888&rtpof=true&sd=true)
+The project can be found [HERE](https://docs.google.com/spreadsheets/d/11g0H_hpKuW9gY2ppFh8apFvPY88fVrzq/edit?usp=sharing&ouid=101031187502320177888&rtpof=true&sd=true)
 
 ### Table of Contents for Repository Artifacts
 | File Number | Title | Description |
 | :-----------: | :-----------: | :-----------: |
-| 1 | [NYC Transportation Project.pdf](https://github.com/Tiffany-Bergett/Data_Projects_Personal_Projects/blob/main/NYC%20Transportation/NYC%20Transportation%20Project.pdf) | PDF file containing the cleaned and analyzed NYC transportation data, including pivot tables and charts. |
+| 1 | [NYC Transportation Project.pdf](https://github.com/Tiffany-Bergett/Data_Analytic_Projects/blob/main/NYC%20Transportation/NYC%20Transportation%20Project.pdf) | PDF file containing the cleaned and analyzed NYC transportation data, including pivot tables and charts. |
 | 3 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
-| 4 | [Requirements.txt](https://github.com/Tiffany-Bergett/Data_Projects_Personal_Projects/blob/main/NYC%20Transportation/Requirements.txt) | A simple .txt file with the provided project requirements as provided by "Alex the Analyst". |
+| 4 | [Requirements.txt](https://github.com/Tiffany-Bergett/Data_Analytic_Projects/blob/main/NYC%20Transportation/Requirements.txt) | A simple .txt file with the provided project requirements as provided by "Alex the Analyst". |
 
 ### Table of Contents for README
 | Section Title | Description |
 | :-----------: | :-----------: |
-| [Description](LINK) | Describes the final product's purpose, software, format, and included visuals. |
-| [Process](LINK) | Describes the process, including tools or tech used. |
-| [Data](LINK) | Describes the data source, including files, tables, and fields. |
-| [Assumptions](LINK) | Describes assumptions to include given by TripleTen and assumptions made based on the data and task. |
-| [Findings](LINK) | Insights learned from the data analysis. |
-| [Recommendations](LINK) | Recommended direction for the stakeholders based on the final analysis. |
-| [Notes](LINK) | Lists any special requests from the reviews or stakeholders unique to this project. |
+| [Description](https://github.com/Tiffany-Bergett/Data_Analytic_Projects/tree/main/NYC%20Transportation#description) | Describes the final product's purpose, software, format, and included visuals. |
+| [Process](https://github.com/Tiffany-Bergett/Data_Analytic_Projects/tree/main/NYC%20Transportation#process) | Describes the process, including the tools or tech used. |
+| [Data](https://github.com/Tiffany-Bergett/Data_Analytic_Projects/tree/main/NYC%20Transportation#data-description) | Describes the data source, including files, tables, and fields. |
+| [Assumptions](https://github.com/Tiffany-Bergett/Data_Analytic_Projects/tree/main/NYC%20Transportation#assumptions) | Describes assumptions to include those given by Alex the Analyst and assumptions made based on the data and task. |
+| [Findings](https://github.com/Tiffany-Bergett/Data_Analytic_Projects/tree/main/NYC%20Transportation#findings) | Insights learned from the data analysis. |
+| [Recommendations](https://github.com/Tiffany-Bergett/Data_Analytic_Projects/tree/main/NYC%20Transportation#recommendations) | Recommended direction for the stakeholders based on the final analysis. |
 
 #### Description:  
 * Software: Excel, 7 sheets
-* The Excel workbook includes cleaned data, pivot tables, and charts visualizing trends in delays and breakdowns, analysis of delay times by company and borough, and identification of top 10 companies with highest delay times. 
+* The Excel workbook includes cleaned data, pivot tables, and charts visualizing trends in delays and breakdowns, analysis of delay times by company and borough, and identification of the top 10 companies with the highest delay times. 
 
 #### Process:  
-* The project started by setting up workbook structure and cleaning raw data.
-* Then creating new columns for analysis.
+* The project started by setting up a workbook structure and cleaning raw data.
+* Then, create new columns for analysis.
 * After, for each question, I created pivot tables and charts to analyze and visualize the data.
-* Finally I summarized the analysis and proposed next steps in an executive summary.
+* Finally, I summarized the analysis and proposed the  next steps in an executive summary.
 
 #### Data Description:  
 * 'Raw Data': This sheet contains the original, uncleaned NYC transportation data. 
@@ -54,16 +53,16 @@ Project can be found [HERE](https://docs.google.com/spreadsheets/d/11g0H_hpKuW9g
 #### Assumptions:  
 * Similar-sounding bus company names can be aggregated as the same company. 
 * One event marked "running late" with no delay time was assumed to have a 0-minute delay. 
-* Null boroughs were excluded from borough delay analysis. 
+* Null boroughs were excluded from the borough delay analysis. 
 * Blanks and outliers were removed from weekday analysis.
 
 #### Findings:  
-* The majority of breakdowns are due to mechanical problems, including "Won't Start". 
+* The majority of breakdowns are due to mechanical problems, including "Won't start". 
 * The main cause of delays is heavy traffic. 
 * Delay times vary greatly between bus companies, with Selby Transportation, Little Linda Bus Co., and Pride Transportation experiencing some of the highest delays. 
 * Boroughs with the highest delay times are the main areas of NYC. 
 * There is a gradual decrease in breakdowns throughout the week.
-* There is a spike in delays on Monday and lower delays on Fridays.
+* There is a spike in delays on Mondays and lower delays on Fridays.
 
 #### Recommendations:  
 * Implement more precautionary maintenance to prevent mechanical problems.
