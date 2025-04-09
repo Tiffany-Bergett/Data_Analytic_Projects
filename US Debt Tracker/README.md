@@ -21,13 +21,13 @@ Video Overview can be found <a href='URL HERE’><u>here</u>.</a>
 ### Table of Contents for README
 | Section Title | Description |
 | ----------- |----------- |
-| Description | Describes the final product's purpose, software, format, and included visuals. |
-| Process | Describes the process, including the tools or tech used. |
-| Data | Describes the data source, including files, tables, and fields. |
-| Assumptions | Describes assumptions given by Alex the Analyst and assumptions made based on the data and task. |
-| Findings | Insights learned from the data analysis. |
-| Recommendations | Recommended direction for the stakeholders based on final analysis. |
-| Notes | List any special requests from the reviews or stakeholders unique to this project. |
+| [Description](https://github.com/Tiffany-Bergett/Data_Analytic_Projects/tree/main/US%20Debt%20Tracker#description) | Describes the final product's purpose, software, format, and included visuals. |
+| [Process](https://github.com/Tiffany-Bergett/Data_Analytic_Projects/tree/main/US%20Debt%20Tracker#process) | Describes the process, including the tools or tech used. |
+| [Data](https://github.com/Tiffany-Bergett/Data_Analytic_Projects/tree/main/US%20Debt%20Tracker#data-description) | Describes the data source, including files, tables, and fields. |
+| [Assumptions](https://github.com/Tiffany-Bergett/Data_Analytic_Projects/tree/main/US%20Debt%20Tracker#assumptions) | Describes assumptions to include those given by Alex the Analyst and assumptions made based on the data and task. |
+| [Findings](https://github.com/Tiffany-Bergett/Data_Analytic_Projects/tree/main/US%20Debt%20Tracker#findings) | Insights learned from the data analysis. |
+| [Recommendations](https://github.com/Tiffany-Bergett/Data_Analytic_Projects/tree/main/US%20Debt%20Tracker#recommendations) | Recommended direction for the stakeholders based on the final analysis. |
+| [Notes](https://github.com/Tiffany-Bergett/Data_Analytic_Projects/tree/main/US%20Debt%20Tracker#notes) | List any special requests from the reviews or stakeholders unique to this project. |
 
 #### Description:
 - Microsoft Excel, 6 Sheets
