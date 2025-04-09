@@ -7,6 +7,9 @@ DESCRIPTION OF PROJECT SCOPE, ROLES, & RESPONSIBILITIES (USE AI)
 
 [<img src="URL OF IMAGE" alt="First Sheet of Project**">](URL OFDESTINATION)
 
+The video overview can be found <a href='INSERT VIDEO URL HERE' target=_blank><u>here</u>.</a>.  
+DOCUMENT TYPE page can be found <a href='INSERT URL HERE' target=_blank><u>here</u>.</a>.  
+
 ### Table of Contents for Repository Artifacts
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
@@ -19,9 +22,9 @@ DESCRIPTION OF PROJECT SCOPE, ROLES, & RESPONSIBILITIES (USE AI)
 | Section Title | Description |
 | ----------- |----------- |
 | Description | Describes the final product's purpose, software, format, and included visuals. |
-| Process | Describes the process, including tools or tech used. |
+| Process | Describes the process, including the tools or tech used. |
 | Data | Describes the data source, including files, tables, and fields. |
-| Assumptions | Describes assumptions to include given by TripleTen and assumptions made based on the data and task. |
+| Assumptions | Describes assumptions given by TripleTen and assumptions made based on the data and task. |
 | Findings | Insights learned from the data analysis. |
 | Recommendations | Recommended direction for the stakeholders based on final analysis. |
 | Notes | List any special requests from the reviews or stakeholders unique to this project. |
@@ -48,10 +51,5 @@ DESCRIPTION HERE:
 #### Recommendations/Results:
 - LIST ALL FUTURE RECS HERE
 
-[<img src="IMAGE CAPTURE URL HERE">](DESTINATION URL HERE)
-
-The video overview can be found <a href='INSERT VIDEO URL HERE' target=_blank><u>here</u>.</a>.
-DOCUMENT TYPE page can be found <a href='INSERT URL HERE' target=_blank><u>here</u>.</a>.
-
 #### Notes:
-LIST ANY NOTES (such as, if a draft page is a requirement)
+LIST ANY NOTES (such as if a draft page is a requirement)
