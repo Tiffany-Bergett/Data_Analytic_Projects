@@ -1,5 +1,5 @@
-# Data_Projects_Personal_Projects
-Portfolio of completed Self-started and personal collaboration projects for funsies.
+# Data_Analytic_Projects
+Portfolio of completed Self-started, personal collaboration projects and continuing education projects for funsies and personal development.
 
 | Project number | Title | Description |
 | :-----------: | ----------- |----------- |
