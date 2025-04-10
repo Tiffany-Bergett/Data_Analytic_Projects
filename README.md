@@ -1,4 +1,4 @@
-# Data_Analytic_Projects
+# Data Analytic Projects
 Portfolio of completed Self-started, personal collaboration projects and continuing education projects for funsies and personal development.
 
 | Project number | Title | Description |
