@@ -1,26 +1,26 @@
 🚧 PROJECT PAGE UNDER CONSTRUCTION 🚧
 
-# File Title: LAPD Crime Analysis
+# LAPD Crime Analysis
 
 DESCRIPTION OF PROJECT SCOPE, ROLES, & RESPONSIBILITIES (USE AI)
 
+<!--
+🎥 **The Loom Video Overview** can be found [HERE]()
+-->
 
-[<img src="URL OF IMAGE" alt="First Sheet of Project**">](URL OFDESTINATION)
-
-The video overview can be found <a href='INSERT VIDEO URL HERE' target=_blank><u>here</u>.</a>.  
-DOCUMENT TYPE page can be found <a href='INSERT URL HERE' target=_blank><u>here</u>.</a>.  
-
-### Table of Contents for Repository Artifacts
+## Table of Contents for Repository Artifacts
 | File Number | Title | Description |
-| :-----------: | ----------- |----------- |
+| :---------: | ----- | ----------- |
 | 1 | [FINISHED FILE NAME HERE](URL HERE) | DESCRIPTION HERE |
 | 2 | [RAW DATA FILE HERE](URL HERE) | DESCRIPTION HERE |
 | 3 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
 | 4 | [Requirements.txt](https://github.com/Tiffany-Bergett/Data_Analytic_Projects/blob/main/LAPD/Requirements.txt) | A simple .txt file with the provided project requirements as provided by TripleTen. |
 
-### Table of Contents for README
+---
+
+## Table of Contents for README
 | Section Title | Description |
-| ----------- |----------- |
+| ------------- | ----------- |
 | [Description](https://github.com/Tiffany-Bergett/Data_Analytic_Projects/tree/main/LAPD#description) | Describes the final product's purpose, software, format, and included visuals. |
 | [Process](https://github.com/Tiffany-Bergett/Data_Analytic_Projects/tree/main/LAPD#process) | Describes the process, including the tools or tech used. |
 | [Data](https://github.com/Tiffany-Bergett/Data_Analytic_Projects/tree/main/LAPD#data) | Describes the data source, including files, tables, and fields. |
@@ -29,27 +29,32 @@ DOCUMENT TYPE page can be found <a href='INSERT URL HERE' target=_blank><u>here<
 | [Recommendations](https://github.com/Tiffany-Bergett/Data_Analytic_Projects/tree/main/LAPD#recommendations) | Recommended direction for the stakeholders based on final analysis. |
 | [Notes](https://github.com/Tiffany-Bergett/Data_Analytic_Projects/tree/main/LAPD#notes) | List any special requests from the reviews or stakeholders unique to this project. |
 
-#### Description:
+### Description:
 - SOFTWARE, NUMBER OF PAGES/SHEETS HERE
 - DESCRIPTION OF WHAT’S INCLUDED/ANALYTICAL FORMATS HERE
+<!--
+**OG PROJECT** can be found [HERE]().  
+-->
 
-#### Process:
--IF RELEVANT, USE AI TO DESCRIBE THE PROCESS OF THE PROJECT. INCLUDE TOOLS/TECH USED.
+### Process:
+1) IF RELEVANT, USE AI TO DESCRIBE THE PROCESS OF THE PROJECT. INCLUDE TOOLS/TECH USED.
 
-#### Data
+### Data
 DESCRIPTION HERE:
 - `'TABLE NAME HERE'`: DESCRIPTION HERE
     - `'FIELD NAME'`: DESCRIPTION HERE
+<!--
+**Raw Data** can be found [HERE]().  
+-->
 
-#### Assumptions:
-- LIST ALL ASSUMPTIONS HERE (Use AI)
+### Assumptions:
+1) LIST ALL ASSUMPTIONS HERE (Use AI)
 
-
-#### Findings:
+### Findings:
 -LIST KEY INSIGHTS HERE
 
-#### Recommendations/Results:
+### Recommendations/Results:
 - LIST ALL FUTURE RECS HERE
 
-#### Notes:
+### Notes:
 LIST ANY NOTES (such as if a draft page is a requirement)
