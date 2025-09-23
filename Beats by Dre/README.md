@@ -6,9 +6,9 @@ This project presents a comprehensive business intelligence analysis of the wire
 
 | File Number | Title | Description | 
 | :---------: | ----- | ----------- | 
-| 1 | [Data_Analysis.ipynb](https://www.google.com/search?q=https://github.com/Tiffany-Bergett/Data_Analytic_Projects/blob/main/Beats%2520Pill%2520Analysis/Data_Analysis.ipynb) | A Jupyter Notebook containing all Python code for data cleaning, EDA, and sentiment analysis. | 
+| 1 | [Data_Analysis.ipynb](https://github.com/Tiffany-Bergett/Data_Analytic_Projects/blob/main/Beats%2520Pill%2520Analysis/Data_Analysis.ipynb) | A Jupyter Notebook containing all Python code for data cleaning, EDA, and sentiment analysis. | 
 | 2 | [Final_Dashboard](https://claude.ai/public/artifacts/0eee792c-38e7-45b5-85a7-00457bdfbaa2) | The final Claude-Based Dashboard delivered to stakeholders with key insights and recommendations. 
-| 3 | [Final_Presentation.pdf](https://www.google.com/search?q=https://github.com/Tiffany-Bergett/Data_Analytic_Projects/blob/main/Beats%2520Pill%2520Analysis/Final_Presentation.pdf) | The final presentation delivered to stakeholders with key insights and recommendations. | 
+| 3 | [Final_Presentation.pdf](https://github.com/Tiffany-Bergett/Data_Analytic_Projects/blob/main/Beats%2520Pill%2520Analysis/Final_Presentation.pdf) | The final presentation delivered to stakeholders with key insights and recommendations. | 
 | 4 | README.md | This current page with all relevant information about the project, just past the Table of contents. | 
 
 ## Table of Contents for README
