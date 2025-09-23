@@ -15,13 +15,13 @@ This project presents a comprehensive business intelligence analysis of the wire
 
 | Section Title | Description | 
 | ------------- | ----------- | 
-| [Description](https://www.google.com/search?q=https://github.com/Tiffany-Bergett/Data_Analytic_Projects/tree/main/Beats%2520Pill%2520Analysis%23description) | Describes the final product's purpose, software, format, and included visuals. | 
-| [Process](https://www.google.com/search?q=https://github.com/Tiffany-Bergett/Data_Analytic_Projects/tree/main/Beats%2520Pill%2520Analysis%23process) | Describes the process, including the tools or tech used. | 
-| [Data](https://www.google.com/search?q=https://github.com/Tiffany-Bergett/Data_Analytic_Projects/tree/main/Beats%2520Pill%2520Analysis%23data) | Describes the data source, including files, tables, and fields. | 
-| [Assumptions](https://www.google.com/search?q=https://github.com/Tiffany-Bergett/Data_Analytic_Projects/tree/main/Beats%2520Pill%2520Analysis%23assumptions) | Describes assumptions to include those given by the Externship and those made based on the data and task. | 
-| [Findings](https://www.google.com/search?q=https://github.com/Tiffany-Bergett/Data_Analytic_Projects/tree/main/Beats%2520Pill%2520Analysis%23findings) | Insights learned from the data analysis. | 
-| [Recommendations](https://www.google.com/search?q=https://github.com/Tiffany-Bergett/Data_Analytic_Projects/tree/main/Beats%2520Pill%2520Analysis%23recommendations) | Recommended direction for the stakeholders based on the final analysis. | 
-| [Notes](https://www.google.com/search?q=https://github.com/Tiffany-Bergett/Data_Analytic_Projects/tree/main/Beats%2520Pill%2520Analysis%23notes) | List any special requests from the reviews or stakeholders unique to this project. | 
+| [Description](https://github.com/Tiffany-Bergett/Data_Analytic_Projects/blob/main/Beats%20by%20Dre/README.md#description) | Describes the final product's purpose, software, format, and included visuals. | 
+| [Process](https://github.com/Tiffany-Bergett/Data_Analytic_Projects/blob/main/Beats%20by%20Dre/README.md#process) | Describes the process, including the tools or tech used. | 
+| [Data](https://github.com/Tiffany-Bergett/Data_Analytic_Projects/blob/main/Beats%20by%20Dre/README.md#data) | Describes the data source, including files, tables, and fields. | 
+| [Assumptions](https://github.com/Tiffany-Bergett/Data_Analytic_Projects/blob/main/Beats%20by%20Dre/README.md#assumptions) | Describes assumptions to include those given by the Externship and those made based on the data and task. | 
+| [Findings](https://github.com/Tiffany-Bergett/Data_Analytic_Projects/blob/main/Beats%20by%20Dre/README.md#findings) | Insights learned from the data analysis. | 
+| [Recommendations](https://github.com/Tiffany-Bergett/Data_Analytic_Projects/blob/main/Beats%20by%20Dre/README.md#recommendations) | Recommended direction for the stakeholders based on the final analysis. | 
+| [Notes](https://github.com/Tiffany-Bergett/Data_Analytic_Projects/blob/main/Beats%20by%20Dre/README.md#notes) | List any special requests from the reviews or stakeholders unique to this project. | 
 
 ### Description:
 
