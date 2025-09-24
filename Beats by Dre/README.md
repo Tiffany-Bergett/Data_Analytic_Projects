@@ -8,7 +8,7 @@ This project presents a comprehensive business intelligence analysis of the wire
 | :---------: | ----- | ----------- | 
 | 1 | [Data_Analysis & Report.ipynb](https://github.com/Tiffany-Bergett/Data_Analytic_Projects/blob/main/Beats%20by%20Dre/Beats_Pill_Competitive_Analysis_Project_%26_Report.ipynb) | A Jupyter Notebook containing all Python code for data cleaning, EDA, and sentiment analysis. | 
 | 2 | [Final_Dashboard](https://claude.ai/public/artifacts/0eee792c-38e7-45b5-85a7-00457bdfbaa2) | The final Claude-Based Dashboard delivered to stakeholders with key insights and recommendations. 
-| 3 | [Final_Presentation.pdf](https://github.com/Tiffany-Bergett/Data_Analytic_Projects/blob/main/Beats%20by%20Dre/Decoding-the-High-Fidelity-Wireless-Speaker-Market.pdf) | The final presentation delivered to stakeholders with key insights and recommendations. | 
+| 3 | [Final_Presentation.pdf](https://github.com/Tiffany-Bergett/Data_Analytic_Projects/blob/main/Beats%20by%20Dre/Decoding-the-High-Fidelity-Wireless-Speaker-Market.pdf) | The final Gamma based presentation delivered to stakeholders with key insights and recommendations. | 
 | 4 | README.md | This current page with all relevant information about the project, just past the Table of contents. | 
 
 ## Table of Contents for README
@@ -25,15 +25,15 @@ This project presents a comprehensive business intelligence analysis of the wire
 
 ### Description:
 
-This project is a comprehensive business intelligence analysis demonstrating skills in the full data analysis lifecycle, from foundational research and data preparation to advanced analysis and final recommendations. The deliverables include a strategic presentation and an AI-driven dashboard.
+This project is a comprehensive business intelligence analysis demonstrating skills in the full data analysis lifecycle, from foundational research and data preparation to advanced analysis and final recommendations. The deliverables include a strategic AI Slide-Deck presentation and an AI-driven dashboard.
 
 ### Process:
 
 1. **Foundational Research:** Developed an "Ideal Consumer List" and a "Customer Journey Map" using the AIDA framework.
-2. **Data Acquisition & Cleaning:** Used Python to scrape and import a dataset of over 4,900 Amazon reviews. Applied Pandas to clean and prepare the data for analysis.
-3. **Exploratory Data Analysis (EDA):** Performed a detailed EDA to explore data distributions and relationships between variables, including creating a correlation matrix and word clouds.
-4. **Advanced Analysis:** Conducted a sentiment analysis on customer reviews using the TextBlob library.
-5. **Final Deliverables:** Created a strategic presentation and an AI-driven dashboard to present key findings and actionable recommendations to stakeholders.
+2. **Data Acquisition & Cleaning:** Used Python to scrape and import a dataset of over 5,000 Survey Responses and Amazon reviews. Applied Pandas to clean and prepare the data for analysis.
+3. **Exploratory Data Analysis (EDA):** Performed a detailed EDA to explore data distributions and relationships between variables, including creating a correlation matrix and word clouds using Python libraries like Pandas and NumPy.
+4. **Advanced Analysis:** Conducted a sentiment analysis on customer reviews using the TextBlob, nltk, wordcloud, and Gemini API libraries.
+5. **Final Deliverables:** Created a strategic presentation for a Gamma AI slide deck and a Claude AI-driven dashboard to present key findings and actionable recommendations to stakeholders.
 
 ### Data:
 Amazon reviews for portable speakers from top competitors:
@@ -43,7 +43,7 @@ Amazon reviews for portable speakers from top competitors:
 * **Marshall:** A competitor with a stylish, classic design.
 
 ### Assumptions:
-1. The 4,900 Amazon reviews are a representative sample of consumer sentiment for the targeted products.
+1. The 5,000 Amazon reviews are a representative sample of consumer sentiment for the targeted products.
 2. Customer reviews accurately reflect the key pain points and strengths that are most important to consumers.
 
 ### Findings:
