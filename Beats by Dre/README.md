@@ -14,17 +14,17 @@ This repository contains the work completed during a comprehensive externship wi
 
 | Section Title | Description | 
 | ------------- | ----------- | 
-| [Project 1](https://github.com/Tiffany-Bergett/Data_Analytic_Projects/blob/main/Beats%20by%20Dre/README.md#description) | Describes the final product's purpose, software, format, and included visuals. | 
-| [Project 2](https://github.com/Tiffany-Bergett/Data_Analytic_Projects/blob/main/Beats%20by%20Dre/README.md#process) | Describes the process, including the tools or tech used. | 
+| [Project 1](https://github.com/Tiffany-Bergett/Data_Analytic_Projects/blob/main/Beats%20by%20Dre/README.md#project-1-market-research--consumer-insights-analysis-) | Quantitative and Qualitative Analysis of Survey Data, including confirming conclusions through an additional AI analysis. | 
+| [Project 2](https://github.com/Tiffany-Bergett/Data_Analytic_Projects/tree/main/Beats%20by%20Dre#project-2-technical-sentiment-analysis--strategic-reporting-) | Competitive Analysis on Amazon Review Data. Scraped, cleaned, EDA, visual analysis, dashboard, and presentation. | 
 
 ## Project 1: Market Research & Consumer Insights Analysis 🧐  
 This project focused on foundational market research to define and understand the target consumer for Beats by Dre. The primary goal was to analyze qualitative and quantitative survey data to map the customer journey and identify key purchasing drivers.  
 
 ### Key Activities & Skills:  
-**Consumer Profiling**: Developed a detailed "Ideal Consumer List" and mapped the complete customer journey using the AIDA (Attention, Interest, Desire, Action) framework.  
-**Data Analysis (Spreadsheets & AI)**: Conducted in-depth qualitative and quantitative analysis of consumer survey responses to identify key themes related to sound quality, battery life, design, and price.  
-**Data Visualization**: Created compelling charts and graphs in Google Sheets to visually represent survey findings and trends.  
-**AI-Powered Planning**: Leveraged AI tools, including ChatGPT and Gemini, to construct a systematic data analysis plan, ensuring a structured and efficient approach to interpreting the data.  
+- **Consumer Profiling**: Developed a detailed "Ideal Consumer List" and mapped the complete customer journey using the AIDA (Attention, Interest, Desire, Action) framework.  
+- **Data Analysis (Spreadsheets & AI)**: Conducted in-depth qualitative and quantitative analysis of consumer survey responses to identify key themes related to sound quality, battery life, design, and price.  
+- **Data Visualization**: Created compelling charts and graphs in Google Sheets to visually represent survey findings and trends.  
+- **AI-Powered Planning**: Leveraged AI tools, including ChatGPT and Gemini, to construct a systematic data analysis plan, ensuring a structured and efficient approach to interpreting the data.  
 
 ### Tech Stack: 💻
 - Google Docs
@@ -36,11 +36,11 @@ This project focused on foundational market research to define and understand th
 This project involved a technical deep-dive into real-world customer feedback. The objective was to scrape, process, and analyze unstructured text data from Amazon product reviews to extract actionable insights and present a final, data-driven recommendation to leadership.
 
 ### Key Activities & Skills:  
-**Web Scraping**: Scraped thousands of customer reviews for five competing wireless speaker products from Amazon using Oxylabs.  
-**Data Cleaning & Preparation**: Utilized Python libraries (Pandas, NumPy) within a Google Colab environment to clean, preprocess, and structure the raw, scraped text data for analysis.  
-**Advanced Analysis & Visualization**: Performed Exploratory Data Analysis (EDA) and built insightful visualizations with Matplotlib and Seaborn. Implemented sentiment analysis using the TextBlob library to classify customer opinions.  
-**AI-Powered Synthesis**: Employed the Gemini API to synthesize complex findings from the sentiment analysis and generate high-level strategic insights.  
-**Reporting & Dashboarding**: Designed and delivered a final presentation and an interactive data dashboard using Gamma and Claude to effectively communicate strategic recommendations to an executive-level audience.  
+- **Web Scraping**: Scraped thousands of customer reviews for five competing wireless speaker products from Amazon using Oxylabs.  
+- **Data Cleaning & Preparation**: Utilized Python libraries (Pandas, NumPy) within a Google Colab environment to clean, preprocess, and structure the raw, scraped text data for analysis.  
+- **Advanced Analysis & Visualization**: Performed Exploratory Data Analysis (EDA) and built insightful visualizations with Matplotlib and Seaborn. Implemented sentiment analysis using the TextBlob library to classify customer opinions.  
+- **AI-Powered Synthesis**: Employed the Gemini API to synthesize complex findings from the sentiment analysis and generate high-level strategic insights.  
+- **Reporting & Dashboarding**: Designed and delivered a final presentation and an interactive data dashboard using Gamma and Claude to effectively communicate strategic recommendations to an executive-level audience.  
 
 ### Tech Stack: 🚀  
 - Python
