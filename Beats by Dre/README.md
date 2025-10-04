@@ -5,10 +5,11 @@ This repository contains the work completed during a comprehensive externship wi
 
 | File Number | Title | Description | 
 | :---------: | ----- | ----------- | 
-| 1 | [Data_Analysis & Report.ipynb](https://github.com/Tiffany-Bergett/Data_Analytic_Projects/blob/main/Beats%20by%20Dre/Beats_Pill_Competitive_Analysis_Project_%26_Report.ipynb) | A Jupyter Notebook containing all Python code for data cleaning, EDA, and sentiment analysis. | 
+| 1 | [Data_Analysis & Report](https://github.com/Tiffany-Bergett/Data_Analytic_Projects/blob/main/Beats%20by%20Dre/Beats_Pill_Competitive_Analysis_Project_%26_Report.ipynb) | A Jupyter Notebook containing all Python code for data cleaning, EDA, and sentiment analysis. | 
 | 2 | [Final_Dashboard](https://claude.ai/public/artifacts/0eee792c-38e7-45b5-85a7-00457bdfbaa2) | The final Claude-Based Dashboard delivered to stakeholders with key insights and recommendations. 
-| 3 | [Final_Presentation.pdf](https://github.com/Tiffany-Bergett/Data_Analytic_Projects/blob/main/Beats%20by%20Dre/Decoding-the-High-Fidelity-Wireless-Speaker-Market.pdf) | The final Gamma-based presentation delivered to stakeholders with key insights and recommendations. | 
+| 3 | [Final_Presentation](https://github.com/Tiffany-Bergett/Data_Analytic_Projects/blob/main/Beats%20by%20Dre/Decoding-the-High-Fidelity-Wireless-Speaker-Market.pdf) | PDF version of the final Gamma-based presentation delivered to stakeholders with key insights and recommendations. | 
 | 4 | README.md | This current page with all relevant information about the project, just past the Table of contents. | 
+| 5 | [Wireless Speaker Project](https://github.com/Tiffany-Bergett/Data_Analytic_Projects/blob/main/Beats%20by%20Dre/Wireless%20%20Speakers%20Project.xlsx) | Project 1 Spreadsheet Deliverable | 
 
 ## Table of Contents for README
 
